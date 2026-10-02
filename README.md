@@ -234,12 +234,8 @@ Estou usando cada projeto para desenvolver a capacidade de **investigar problema
 
 <p align="left">
 
-<a href="SEU_LINKEDIN">
+<a href="www.linkedin.com/in/gabrielmarques-tech">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
