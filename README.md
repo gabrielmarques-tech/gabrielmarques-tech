@@ -90,7 +90,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento Python, eng
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 Network Diagnostic Tool
+### 🔍 Network Diagnostic
 
 Ferramenta CLI em Python para auxiliar no diagnóstico de problemas de conectividade, inspirada em situações reais de suporte e operações de rede.
 
